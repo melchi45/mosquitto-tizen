@@ -1,0 +1,11 @@
+APPNAME = mosquitto
+
+type = sharedLib
+profile = wearable-2.3.2
+
+USER_SRCS = src/mosquitto.c
+USER_DEFS =
+USER_INC_DIRS = inc
+USER_OBJS =
+USER_LIBS =
+USER_EDCS =
